@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{F13E9F7E-25A9-40A0-B629-DE4DFDD06F64}|Default">
+﻿<Properties StartupConfiguration="{F13E9F7E-25A9-40A0-B629-DE4DFDD06F64}|Default" GitUserInfo="UsingGIT">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.AdventureWorkds FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AdventureWorkds PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
